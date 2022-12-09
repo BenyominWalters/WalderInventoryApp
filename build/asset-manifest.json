@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1409383a.css",
+    "main.js": "/static/js/main.bfa42f30.js",
+    "static/media/ModelingClay.jpg": "/static/media/ModelingClay.d2f1f15ba0b6f6e45d51.jpg",
+    "index.html": "/index.html",
+    "main.1409383a.css.map": "/static/css/main.1409383a.css.map",
+    "main.bfa42f30.js.map": "/static/js/main.bfa42f30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1409383a.css",
+    "static/js/main.bfa42f30.js"
+  ]
+}
